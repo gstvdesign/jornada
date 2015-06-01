@@ -1,3 +1,7 @@
+# Site settings
+baseurl:     "http://gstvdesign.com/jornada/"
+url:         "http://http://gstvdesign.com/jornada/"
+
 inc:
   # Blog Information
   title:        "Jekyll Incorporated"
