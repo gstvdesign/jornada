@@ -51,4 +51,5 @@ redcarpet:
 permalink:    pretty
 paginate:     3
 sass:
+  sass_dir: _sass
   compressed: true
